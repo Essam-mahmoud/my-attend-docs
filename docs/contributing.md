@@ -18,17 +18,12 @@ Found a bug? Help us fix it by providing detailed information.
 #### How to Report Bugs
 
 **Email Method:**
-Send detailed bug reports to [bugs@myattend.com](mailto:bugs@myattend.com)
-
-**In-App Method:**
-1. Go to **Profile > Help & Support**
-2. Tap **"Report a Bug"**
-3. Fill out the bug report form
-4. Submit with screenshots if applicable
+Send detailed bug reports to [info@tettra.solutions](mailto:info@tettra.solutions)
 
 #### What to Include in Bug Reports
 
 **Required Information:**
+
 - **App version** (found in Profile > About)
 - **Device information** (iPhone 12, Samsung Galaxy S21, etc.)
 - **Operating system** version (iOS 15.2, Android 12, etc.)
@@ -65,17 +60,14 @@ Have an idea for a new feature? We'd love to hear it!
 #### How to Suggest Features
 
 **Email Method:**
-Send feature suggestions to [feedback@myattend.com](mailto:feedback@myattend.com)
 
-**In-App Method:**
-1. Go to **Profile > Help & Support**
-2. Tap **"Suggest a Feature"**
-3. Describe your idea in detail
-4. Submit your suggestion
+Send feature suggestions to [info@tettra.solutions](mailto:info@tettra.solutions)
+
 
 #### What Makes a Good Feature Request
 
 **Include These Details:**
+
 - **Clear description** of the proposed feature
 - **Use case** - Why would this be helpful?
 - **Target users** - Who would benefit from this feature?
@@ -83,6 +75,7 @@ Send feature suggestions to [feedback@myattend.com](mailto:feedback@myattend.com
 - **Alternative solutions** - What do you currently do instead?
 
 **Example Feature Request:**
+
 ```
 Subject: Bulk check-in for team events
 
@@ -122,7 +115,7 @@ Help us improve our documentation and user guides.
 
 #### How to Provide Documentation Feedback
 
-Send feedback to [docs@myattend.com](mailto:docs@myattend.com) with:
+Send feedback to [info@tettra.solutions](mailto:info@tettra.solutions) with:
 
 - **Page or section** you're commenting on
 - **Specific issue** you encountered
@@ -143,51 +136,13 @@ Share your experience using My Attend to help us improve usability.
 
 #### How to Share UX Feedback
 
-Email [ux@myattend.com](mailto:ux@myattend.com) with:
+Email [info@tettra.solutions](mailto:info@tettra.solutions) with:
 
 - **Your role** (employee, manager, admin)
 - **Specific task** you were trying to accomplish
 - **What went well** and what was frustrating
 - **Suggestions** for improvement
 - **Screenshots** if helpful
-
-## Beta Testing Program
-
-Get early access to new features and help shape the future of My Attend.
-
-### Beta Program Benefits
-
-- **Early access** to new features (2-4 weeks before general release)
-- **Direct feedback channel** to our development team
-- **Influence product direction** with your input
-- **Priority support** for beta-related issues
-- **Exclusive updates** on development progress
-
-### How to Join the Beta Program
-
-1. **Email [beta@myattend.com](mailto:beta@myattend.com)** with "Beta Program" in the subject
-2. **Include your information**:
-   - Organization name
-   - Your role (admin, manager, employee)
-   - Current app version you're using
-   - Device type and OS version
-3. **We'll respond within 48 hours** with beta access instructions
-4. **Install the beta version** following our instructions
-5. **Start testing** and providing feedback
-
-### Beta Testing Guidelines
-
-**What We Expect:**
-- **Regular usage** of beta features in your daily workflow
-- **Timely feedback** on bugs and usability issues
-- **Participation** in beta surveys and feedback sessions
-- **Patience** with beta bugs and incomplete features
-
-**What You Can Expect:**
-- **Weekly beta updates** with new features and fixes
-- **Direct communication** with our development team
-- **Advance notice** of major changes or new features
-- **Recognition** in release notes for significant contributions
 
 ## Community Guidelines
 
@@ -203,12 +158,14 @@ Help us maintain a positive and productive community.
 ### Communication Standards
 
 **Do:**
+
 - Be specific and detailed in your feedback
 - Provide context for your suggestions
 - Acknowledge others' contributions
 - Stay focused on improving the product
 
 **Don't:**
+
 - Use offensive or inappropriate language
 - Make personal attacks or criticisms
 - Share confidential company information
@@ -221,12 +178,14 @@ We appreciate our contributors and like to show our gratitude.
 ### How We Recognize Contributors
 
 **Public Recognition:**
+
 - **Release notes** mention significant contributors
 - **Social media** shout-outs for great feedback
 - **Community spotlight** in our newsletter
 - **Beta tester credits** in the app
 
 **Exclusive Benefits:**
+
 - **Early access** to new features
 - **Direct line** to our development team
 - **Influence** on product roadmap decisions
@@ -235,27 +194,17 @@ We appreciate our contributors and like to show our gratitude.
 ### Contributor Levels
 
 **Community Member** - Anyone who provides feedback or reports bugs
+
 **Active Contributor** - Regular feedback providers and beta testers
+
 **Community Champion** - Top contributors who help shape product direction
+
 **Advisory Panel** - Select contributors who participate in product planning
 
 ## Development Roadmap
 
 Stay informed about what's coming next in My Attend.
 
-### Current Focus Areas
-
-**Q1 2026:**
-- **Apple Watch integration** - Check-in from your wrist
-- **Advanced analytics** - Predictive insights and trends
-- **Improved offline mode** - More features available without internet
-- **Enhanced security** - Additional authentication options
-
-**Q2 2026:**
-- **Slack/Teams integration** - Attendance notifications in chat
-- **Custom fields** - Organization-specific data collection
-- **Advanced scheduling** - Shift planning and management
-- **Mobile kiosk mode** - Shared device check-in stations
 
 ### How Feedback Influences Development
 
@@ -269,15 +218,15 @@ Your contributions directly impact our roadmap:
 ## Contact Information
 
 ### General Feedback
-- **📧 Email**: [feedback@myattend.com](mailto:feedback@myattend.com)
+- **📧 Email**: [info@tettra.solutions](mailto:info@tettra.solutions)
 - **📱 In-App**: Profile > Help & Support > Send Feedback
 
 ### Specific Feedback Types
-- **🐛 Bug Reports**: [bugs@myattend.com](mailto:bugs@myattend.com)
-- **💡 Feature Requests**: [feedback@myattend.com](mailto:feedback@myattend.com)
-- **📚 Documentation**: [docs@myattend.com](mailto:docs@myattend.com)
-- **🎨 User Experience**: [ux@myattend.com](mailto:ux@myattend.com)
-- **🧪 Beta Program**: [beta@myattend.com](mailto:beta@myattend.com)
+- **🐛 Bug Reports**: [info@tettra.solutions](mailto:info@tettra.solutions)
+- **💡 Feature Requests**: [info@tettra.solutions](mailto:info@tettra.solutions)
+- **📚 Documentation**: [info@tettra.solutions](mailto:info@tettra.solutions)
+- **🎨 User Experience**: [info@tettra.solutions](mailto:info@tettra.solutions)
+- **🧪 Beta Program**: [info@tettra.solutions](mailto:info@tettra.solutions)
 
 ### Response Times
 - **Bug reports**: Within 24 hours

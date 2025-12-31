@@ -72,11 +72,13 @@ My Attend addresses these challenges with:
 My Attend is built specifically for mobile devices, recognizing that smartphones are the most convenient and accessible way for employees to track their attendance.
 
 **Native Apps:**
+
 - **iOS app** built with Swift for optimal performance
 - **Android app** developed with Kotlin for seamless integration
 - **Cross-platform sync** ensuring data consistency across devices
 
 **Cloud Infrastructure:**
+
 - **Secure cloud storage** with enterprise-grade encryption
 - **Real-time synchronization** across all devices and users
 - **Scalable architecture** that grows with your organization
@@ -87,12 +89,14 @@ My Attend is built specifically for mobile devices, recognizing that smartphones
 We take data security and privacy seriously:
 
 **Data Protection:**
+
 - **End-to-end encryption** for all data transmission
 - **Secure cloud storage** with multiple backup systems
 - **GDPR compliance** for international data protection standards
 - **SOC 2 Type II** certification for security controls
 
 **Privacy Principles:**
+
 - **Minimal data collection** - only what's necessary for functionality
 - **Location privacy** - GPS only used during check-in/out actions
 - **User control** - employees control their own data sharing preferences
@@ -113,60 +117,11 @@ Our customer success team is dedicated to helping organizations get the most val
 
 ### Company Values
 
-**Simplicity** - We believe the best solutions are simple and intuitive
-**Reliability** - Our users depend on us, and we take that responsibility seriously
-**Innovation** - We continuously improve and adapt to changing needs
-**Transparency** - We're open about our practices, policies, and pricing
-**Customer Success** - Your success is our success
-
-## Awards and Recognition
-
-### Industry Recognition
-- **Best Mobile HR App 2025** - HR Technology Awards
-- **Innovation in Workforce Management** - TechCrunch Disrupt
-- **Top 10 Startup to Watch** - Business Technology Magazine
-- **Excellence in User Experience** - Mobile App Design Awards
-
-### Customer Testimonials
-
-> "My Attend transformed our attendance tracking from a daily headache into a seamless process. Our employees love how easy it is, and we love the accurate reporting."
-> 
-> *— Sarah Johnson, HR Director, TechStart Inc.*
-
-> "The GPS verification feature eliminated our buddy punching problem completely. ROI was immediate through reduced time theft alone."
-> 
-> *— Mike Chen, Operations Manager, BuildRight Construction*
-
-> "Implementation was incredibly smooth, and the support team was fantastic. We were up and running in less than a week."
-> 
-> *— Lisa Rodriguez, Office Manager, Creative Solutions Agency*
-
-## Partnerships and Integrations
-
-### Technology Partners
-
-We work with leading technology companies to provide seamless integrations:
-
-**Payroll Systems:**
-- ADP Workforce Now
-- Paychex Flex
-- QuickBooks Payroll
-- Gusto
-- BambooHR
-
-**HR Platforms:**
-- Workday
-- SuccessFactors
-- Namely
-- Zenefits
-- Rippling
-
-**Communication Tools:**
-- Slack
-- Microsoft Teams
-- Google Workspace
-- Zoom
-- Asana
+- **Simplicity** - We believe the best solutions are simple and intuitive
+- **Reliability** - Our users depend on us, and we take that responsibility seriously
+- **Innovation** - We continuously improve and adapt to changing needs
+- **Transparency** - We're open about our practices, policies, and pricing
+- **Customer Success** - Your success is our success
 
 ### Implementation Partners
 
@@ -176,40 +131,6 @@ Our certified implementation partners help organizations deploy My Attend succes
 - **Technology integrators** with expertise in business systems
 - **Regional partners** providing local support and customization
 
-## Pricing and Plans
-
-### Transparent Pricing
-
-We believe in simple, transparent pricing with no hidden fees:
-
-**Starter Plan** - Perfect for small teams (1-10 employees)
-**Professional Plan** - Ideal for growing businesses (11-50 employees)  
-**Enterprise Plan** - Comprehensive solution for large organizations (50+ employees)
-
-**All Plans Include:**
-- Unlimited check-ins and reports
-- Mobile apps for iOS and Android
-- Cloud storage and backup
-- Email support
-- Regular updates and new features
-
-**Enterprise Features:**
-- Priority phone support
-- Custom integrations
-- Advanced analytics
-- Dedicated account manager
-- SLA guarantees
-
-For detailed pricing information, contact [sales@myattend.com](mailto:sales@myattend.com).
-
-### Free Trial
-
-Try My Attend risk-free with our 30-day free trial:
-- **Full feature access** during trial period
-- **No credit card required** to start
-- **Personal onboarding** session included
-- **Easy upgrade** to paid plan when ready
-
 ## Support and Resources
 
 ### Customer Support
@@ -217,12 +138,14 @@ Try My Attend risk-free with our 30-day free trial:
 We're committed to providing excellent support:
 
 **Support Channels:**
-- **📧 Email Support**: [support@myattend.com](mailto:support@myattend.com)
+
+- **📧 Email Support**: [info@tettra.solutions](mailto:info@tettra.solutions)
 - **📞 Phone Support**: Available for Professional and Enterprise plans
 - **💬 Live Chat**: In-app chat during business hours
 - **📚 Help Center**: Comprehensive documentation and tutorials
 
 **Response Times:**
+
 - **General inquiries**: Within 24 hours
 - **Technical issues**: Within 12 hours  
 - **Critical problems**: Within 4 hours
@@ -231,12 +154,14 @@ We're committed to providing excellent support:
 ### Training and Onboarding
 
 **Getting Started:**
+
 - **Setup assistance** for new organizations
 - **Admin training** sessions for key personnel
 - **Employee onboarding** materials and guides
 - **Best practices** consultation
 
 **Ongoing Education:**
+
 - **Webinar series** on advanced features
 - **Video tutorials** for common tasks
 - **User community** forum for peer support
@@ -253,7 +178,7 @@ Our Terms of Service outline the legal agreement between My Attend and our users
 - **Data ownership** and retention policies
 - **Limitation of liability** and dispute resolution
 
-[Read full Terms of Service](https://myattend.com/terms)
+[Read full Terms of Service](https://www.tettra.solutions/our-privacy-policy)
 
 ### Privacy Policy
 
@@ -264,65 +189,24 @@ Our Privacy Policy explains how we collect, use, and protect your data:
 - **User rights** and control over personal data
 - **Security measures** and breach notification procedures
 
-[Read full Privacy Policy](https://myattend.com/privacy)
-
-### Compliance and Certifications
-
-**Security Certifications:**
-- SOC 2 Type II compliance
-- ISO 27001 information security management
-- GDPR compliance for EU data protection
-- CCPA compliance for California privacy rights
-
-**Industry Standards:**
-- OWASP security guidelines
-- PCI DSS for payment processing
-- HIPAA compliance for healthcare organizations
-- FedRAMP authorization for government use
+[Read full Privacy Policy](https://www.tettra.solutions/our-privacy-policy)
 
 ## Contact Information
 
 ### General Contact
-- **📧 Email**: [info@myattend.com](mailto:info@myattend.com)
-- **📞 Phone**: +1 (555) 123-ATTEND
-- **🌐 Website**: [www.myattend.com](https://www.myattend.com)
+- **📧 Email**: [info@tettra.solutions](mailto:info@tettra.solutions)
+- **🌐 Website**: [www.tettra.solutions](https://www.tettra.solutions/)
 - **📍 Address**: 123 Innovation Drive, Tech City, TC 12345
 
 ### Specialized Contact
-- **💼 Sales**: [sales@myattend.com](mailto:sales@myattend.com)
-- **🛠️ Support**: [support@myattend.com](mailto:support@myattend.com)
-- **🤝 Partnerships**: [partners@myattend.com](mailto:partners@myattend.com)
-- **📰 Media**: [press@myattend.com](mailto:press@myattend.com)
+- **🛠️ Support**: [info@tettra.solutions](mailto:info@tettra.solutions)
+- **🤝 Partnerships**: [info@tettra.solutions](mailto:info@tettra.solutions)
 
-### Social Media
+<!-- ### Social Media
 - **LinkedIn**: [@MyAttendApp](https://linkedin.com/company/myattendapp)
 - **Twitter**: [@MyAttendApp](https://twitter.com/myattendapp)
 - **Facebook**: [MyAttendApp](https://facebook.com/myattendapp)
-- **YouTube**: [My Attend Channel](https://youtube.com/myattendapp)
-
-## Future Vision
-
-### Our Roadmap
-
-We're continuously evolving My Attend to meet the changing needs of modern workplaces:
-
-**Short-term Goals (Next 6 months):**
-- Apple Watch and smartwatch integration
-- Advanced analytics and predictive insights
-- Enhanced offline capabilities
-- Expanded integration ecosystem
-
-**Medium-term Goals (6-18 months):**
-- AI-powered attendance insights
-- Advanced scheduling and shift management
-- Biometric authentication options
-- Global expansion and localization
-
-**Long-term Vision (18+ months):**
-- Comprehensive workforce management platform
-- Predictive analytics for workforce planning
-- IoT integration for smart office environments
-- Industry-specific solutions and customizations
+- **YouTube**: [My Attend Channel](https://youtube.com/myattendapp) -->
 
 ### Innovation Commitment
 
@@ -337,4 +221,4 @@ We're committed to staying at the forefront of workforce management technology:
 
 *Thank you for choosing My Attend. We're honored to be part of your organization's success story.*
 
-**Ready to get started?** [Download My Attend](installation.md) today or [contact our sales team](mailto:sales@myattend.com) for a personalized demo.
+**Ready to get started?** [Download My Attend](installation.md) today or [contact our sales team](mailto:info@tettra.solutions) for a personalized demo.

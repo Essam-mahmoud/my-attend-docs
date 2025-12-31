@@ -35,6 +35,23 @@ My Attend is a powerful, user-friendly mobile app designed to streamline employe
 
 <div class="grid cards" markdown>
 
+-   :material-clock-fast:{ .lg .middle } **OnBoarding**
+
+    ---
+
+    ![OnBoarding](images/screenshot-Onboarding.png)
+
+    Attractive and easy use design
+
+-   :material-chart-line:{ .lg .middle } **Fast Login**
+
+    ---
+
+    ![Login Screen](images/screenshot-Login.png)
+
+    More than one method to login
+
+
 -   :material-clock-fast:{ .lg .middle } **Quick Check-in**
 
     ---
@@ -51,13 +68,13 @@ My Attend is a powerful, user-friendly mobile app designed to streamline employe
 
     Comprehensive attendance analytics
 
--   :material-account-group:{ .lg .middle } **Team Management**
+-   :material-account-group:{ .lg .middle } **Home Dashboard**
 
     ---
 
-    ![Admin Panel](images/screenshot-admin.png)
+    ![Home Screen](images/screenshot-admin.png)
 
-    Powerful admin tools for team oversight
+    Powerful Home Screen for follow up
 
 -   :material-calendar-check:{ .lg .middle } **Leave Requests**
 
@@ -120,7 +137,7 @@ Ready to streamline your attendance tracking? Choose your path:
 
 Need help? We're here for you:
 
-- 📧 **Email**: [support@myattend.com](mailto:support@myattend.com)
+- 📧 **Email**: [info@tettra.solutions](mailto:info@tettra.solutions)
 - 📖 **FAQ**: Check our [Frequently Asked Questions](faq.md)
 - 🐛 **Bug Reports**: [Report issues](contributing.md#reporting-bugs)
 - 💡 **Feature Requests**: [Suggest improvements](contributing.md#feature-requests)

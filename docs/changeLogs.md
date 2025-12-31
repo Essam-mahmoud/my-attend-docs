@@ -61,19 +61,6 @@ Stay up to date with the latest features, improvements, and fixes in My Attend. 
 - **Storage Space**: 50MB available space
 - **Internet**: Required for initial setup and data synchronization
 
-## Beta Program
-
-Want to try new features before they're released? Join our beta program:
-
-- **Early Access** - Get new features weeks before general release
-- **Provide Feedback** - Help shape the future of My Attend
-- **Priority Support** - Direct line to our development team
-- **Exclusive Updates** - Behind-the-scenes development insights
-
-**How to Join:**
-1. Email [beta@myattend.com](mailto:beta@myattend.com) with "Beta Program" in the subject
-2. Include your organization name and current app version
-3. We'll send you beta access instructions within 48 hours
 
 ## Release Schedule
 
@@ -88,10 +75,10 @@ We follow a regular release schedule to ensure consistent improvements:
 
 Your feedback drives our development priorities:
 
-- **Feature Requests** - Suggest new features at [feedback@myattend.com](mailto:feedback@myattend.com)
-- **Bug Reports** - Report issues through the app or email [bugs@myattend.com](mailto:bugs@myattend.com)
-- **User Experience** - Share your experience at [ux@myattend.com](mailto:ux@myattend.com)
-- **Integration Needs** - Request new integrations at [integrations@myattend.com](mailto:integrations@myattend.com)
+- **Feature Requests** - Suggest new features at [info@tettra.solutions](mailto:info@tettra.solutions)
+- **Bug Reports** - Report issues through the app or email [info@tettra.solutions](mailto:info@tettra.solutions)
+- **User Experience** - Share your experience at [info@tettra.solutions](mailto:info@tettra.solutions)
+- **Integration Needs** - Request new integrations at [info@tettra.solutions](mailto:info@tettra.solutions)
 
 ## Stay Updated
 
@@ -103,4 +90,4 @@ Never miss an update:
 
 ---
 
-*Questions about a specific release? Contact us at [support@myattend.com](mailto:support@myattend.com)*
+*Questions about a specific release? Contact us at [info@tettra.solutions](mailto:info@tettra.solutions)*

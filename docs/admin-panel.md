@@ -11,6 +11,7 @@ When you log in as an administrator, you'll see a powerful dashboard designed fo
 ![Admin Dashboard](images/admin-dashboard-overview.png)
 
 **Key Sections:**
+
 - **Team Status** - Real-time view of who's checked in/out
 - **Today's Summary** - Attendance statistics for the current day
 - **Pending Approvals** - Leave requests awaiting your decision
@@ -53,6 +54,7 @@ Bring new team members into the system:
 Keep employee information current and accurate:
 
 **Profile Management:**
+
 - **Edit personal information** - Update contact details, addresses
 - **Modify work details** - Change job titles, departments, schedules
 - **Adjust permissions** - Update role levels and access rights
@@ -60,6 +62,7 @@ Keep employee information current and accurate:
 - **Track employment history** - Promotions, transfers, role changes
 
 **Bulk Operations:**
+
 - **Import employees** from CSV files
 - **Bulk schedule changes** for multiple employees
 - **Mass permission updates** for role changes
@@ -70,12 +73,14 @@ Keep employee information current and accurate:
 Monitor and update employee statuses:
 
 **Status Types:**
+
 - **Active** - Currently employed and using the system
 - **Inactive** - Temporarily not working (leave of absence)
 - **Terminated** - No longer with the company
 - **Suspended** - Temporarily restricted access
 
 **Status Actions:**
+
 - **Deactivate accounts** when employees leave
 - **Reactivate accounts** for returning employees
 - **Suspend access** for disciplinary reasons
@@ -88,17 +93,10 @@ Monitor and update employee statuses:
 Monitor your team's current attendance status:
 
 **Live Dashboard Features:**
-- **Color-coded status indicators**:
-  - 🟢 Green: Currently checked in
-  - 🔴 Red: Currently checked out
-  - 🟡 Yellow: On break
-  - ⚫ Gray: Not scheduled today
-  - 🔵 Blue: Late arrival
+
 - **Time stamps** for last check-in/out
 - **Location information** where employees checked in
 - **Total hours** worked today for each employee
-
-![Team Status View](images/admin-team-status.png)
 
 ### Manual Time Adjustments
 
@@ -111,6 +109,7 @@ Correct attendance records when needed:
 - Approved overtime or early departures
 
 **Adjustment Process:**
+
 1. **Find the employee** in the attendance records
 2. **Select the date** that needs correction
 3. **Choose adjustment type**:
@@ -126,6 +125,7 @@ Correct attendance records when needed:
 Stay informed about attendance issues:
 
 **Alert Types:**
+
 - **Late arrivals** - Employees checking in after scheduled time
 - **Early departures** - Leaving before scheduled end time
 - **Missing check-outs** - Forgot to clock out at end of day
@@ -133,12 +133,13 @@ Stay informed about attendance issues:
 - **Location violations** - Check-ins from unauthorized locations
 
 **Alert Management:**
+
 - **Set alert thresholds** for different violation types
 - **Choose notification methods** (email, in-app, SMS)
 - **Assign alert recipients** - who gets notified about what
 - **Create escalation rules** for repeated violations
 
-## Reporting and Analytics
+<!-- ## Reporting and Analytics
 
 ### Generating Reports
 
@@ -202,9 +203,10 @@ Automate report generation and delivery:
 2. **Set schedule** - Daily, weekly, monthly, or custom intervals
 3. **Choose recipients** - Email addresses for automatic delivery
 4. **Select format** - PDF for viewing, Excel for analysis
-5. **Activate schedule** - Reports generate and send automatically
+5. **Activate schedule** - Reports generate and send automatically -->
 
 **Benefits:**
+
 - **Consistent reporting** without manual effort
 - **Stakeholder updates** delivered on time
 - **Historical tracking** with archived reports
@@ -217,6 +219,7 @@ Automate report generation and delivery:
 Efficiently handle employee time-off requests:
 
 #### Reviewing Requests
+
 1. **Access Approvals section** from admin dashboard
 2. **See pending requests** with employee details
 3. **Review request information**:
@@ -231,6 +234,7 @@ Efficiently handle employee time-off requests:
 ![Leave Approval Interface](images/admin-leave-approval.png)
 
 #### Approval Actions
+
 - **Approve** - Grant the time off request
 - **Deny** - Reject with reason for denial
 - **Partial approval** - Approve some but not all requested days
@@ -238,6 +242,7 @@ Efficiently handle employee time-off requests:
 - **Defer decision** - Mark for later review
 
 #### Approval Notifications
+
 - **Automatic emails** sent to employees with decision
 - **Calendar updates** for approved time off
 - **Team notifications** about approved absences
@@ -248,6 +253,7 @@ Efficiently handle employee time-off requests:
 Track and manage employee time-off balances:
 
 **Balance Types:**
+
 - **Vacation days** - Annual vacation allowance
 - **Sick leave** - Health-related time off
 - **Personal days** - Personal time allowance
@@ -255,6 +261,7 @@ Track and manage employee time-off balances:
 - **Comp time** - Compensatory time off
 
 **Balance Operations:**
+
 - **View current balances** for all employees
 - **Adjust balances** for corrections or bonuses
 - **Set accrual rates** based on company policy
@@ -266,6 +273,7 @@ Track and manage employee time-off balances:
 Set up leave policies that match your company rules:
 
 **Policy Settings:**
+
 - **Accrual rates** - How much leave employees earn per period
 - **Maximum balances** - Caps on accumulated time off
 - **Carryover rules** - How unused time transfers to next year
@@ -273,6 +281,7 @@ Set up leave policies that match your company rules:
 - **Approval requirements** - Who can approve different leave types
 
 **Advanced Policies:**
+
 - **Probationary periods** - When new employees can start using leave
 - **Seniority-based accrual** - Different rates for tenure levels
 - **Department-specific rules** - Varying policies by team
@@ -285,6 +294,7 @@ Set up leave policies that match your company rules:
 Set up your organization's basic information and preferences:
 
 #### Company Profile
+
 - **Organization name** and legal entity information
 - **Industry type** and business classification
 - **Time zone** and regional settings
@@ -292,6 +302,7 @@ Set up your organization's basic information and preferences:
 - **Contact information** and addresses
 
 #### Work Schedule Configuration
+
 - **Standard work hours** - Default start and end times
 - **Work days** - Which days of the week are work days
 - **Break policies** - Required breaks and meal periods
@@ -357,6 +368,7 @@ Create roles tailored to your organization:
 Efficiently manage multiple employees at once:
 
 **Bulk Employee Actions:**
+
 - **Import from CSV** - Add multiple employees from spreadsheet
 - **Schedule changes** - Update work schedules for groups
 - **Permission updates** - Change roles for multiple users
@@ -364,10 +376,11 @@ Efficiently manage multiple employees at once:
 - **Status changes** - Activate/deactivate multiple accounts
 
 **Bulk Data Operations:**
-- **Export attendance data** for payroll processing
-- **Generate multiple reports** for different departments
-- **Send notifications** to groups of employees
-- **Apply policy changes** across the organization
+
+-  **Export attendance data** for payroll processing
+-  **Generate multiple reports** for different departments
+-  **Send notifications** to groups of employees
+-  **Apply policy changes** across the organization
 
 ### Integration Management
 
@@ -427,7 +440,7 @@ Maintain records and ensure compliance:
 
 When you need help with administrative features:
 
-- **📧 Admin Support**: [admin-support@myattend.com](mailto:admin-support@myattend.com)
+- **📧 Admin Support**: [info@tettra.solutions](mailto:info@tettra.solutions)
 - **📞 Priority Phone Support**: Available for admin accounts
 - **💬 Live Chat**: In-app chat support during business hours
 - **📚 Admin Resources**: Extended documentation and video tutorials

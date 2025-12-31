@@ -289,7 +289,7 @@ Yes! We offer a 30-day free trial for all plans:
 
 Contact our support team to change your plan:
 
-- **Email**: [billing@myattend.com](mailto:billing@myattend.com)
+- **Email**: [info@tettra.solutions](mailto:info@tettra.solutions)
 - **Include**: Current plan, desired plan, and organization name
 - **Response time**: Usually within 24 hours
 - **Prorated billing** for plan changes
@@ -305,7 +305,7 @@ Yes! My Attend integrates with popular payroll systems:
 - **Custom field mapping** for different systems
 - **API access** for custom integrations
 
-Contact [integrations@myattend.com](mailto:integrations@myattend.com) for specific integration needs.
+Contact [info@tettra.solutions](mailto:info@tettra.solutions) for specific integration needs.
 
 ### Can I export my data?
 
@@ -366,7 +366,7 @@ Currently, My Attend doesn't have a dedicated smartwatch app, but it's on our ro
 If you can't find the answer to your question:
 
 ### Contact Support
-- **📧 Email**: [support@myattend.com](mailto:support@myattend.com)
+- **📧 Email**: [info@tettra.solutions](mailto:info@tettra.solutions)
 - **📞 Phone**: Available for premium accounts
 - **💬 Live Chat**: In-app chat during business hours
 - **📚 Help Center**: Extended documentation and tutorials

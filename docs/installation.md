@@ -146,7 +146,7 @@ Enable automatic updates to always have the latest version:
 
 If you encounter any issues during installation:
 
-- 📧 **Email Support**: [support@myattend.com](mailto:support@myattend.com)
+- 📧 **Email Support**: [info@tettra.solutions](mailto:info@tettra.solutions)
 - 📱 **In-App Help**: Use the help section once installed
 - 🌐 **FAQ**: Check our [Frequently Asked Questions](faq.md)
 
@@ -161,4 +161,4 @@ Once you have My Attend installed:
 
 ---
 
-*Need help? Contact us at [support@myattend.com](mailto:support@myattend.com)*
+*Need help? Contact us at [info@tettra.solutions](mailto:info@tettra.solutions)*

@@ -80,7 +80,7 @@ nav:
   - Features: features.md
   - Admin Panel: admin-panel.md
   - Employee Features: employee-features.md
-  - Releases: releases.md
+  - Change Logs: changeLogs.md
   - FAQ: faq.md
   - Contributing: contributing.md
   - About: about.md
@@ -89,7 +89,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/solid/envelope
-      link: mailto:support@myattend.com
+      link: mailto:info@tettra.solutions
   version:
     provider: mike
   analytics:

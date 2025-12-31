@@ -16,14 +16,6 @@ My Attend supports different user roles with tailored interfaces:
 3. **Tap "Sign In"**
 4. **You'll see the employee dashboard** with check-in options
 
-#### Admin Login
-1. **Open My Attend** on your device
-2. **Enter your admin credentials**:
-   - Admin email address
-   - Password
-3. **Tap "Sign In"**
-4. **You'll see the admin dashboard** with management tools
-
 ### Password Reset
 
 Forgot your password? No problem:
@@ -46,8 +38,6 @@ When you log in as an employee, you'll see:
 - **Upcoming schedule** - Your work schedule for the week
 - **Quick actions** - Request leave, view reports, update profile
 
-![Employee Dashboard](images/screenshot-employee-dashboard.png)
-
 ### Admin Dashboard
 
 Administrators see a comprehensive overview:
@@ -57,8 +47,6 @@ Administrators see a comprehensive overview:
 - **Pending approvals** - Leave requests awaiting your decision
 - **Recent activity** - Latest team check-ins and activities
 - **Quick actions** - Add employees, generate reports, manage settings
-
-![Admin Dashboard](images/screenshot-admin-dashboard.png)
 
 ## Navigation
 
@@ -179,17 +167,6 @@ Need a day off? Submit a request easily:
 6. **Submit for approval**
 7. **Get notified** when approved or denied
 
-### Viewing Team Status (Admins)
-
-See who's currently working:
-
-1. **Check the admin dashboard** for real-time status
-2. **View "Team Status" section**
-3. **See color-coded indicators**:
-   - 🟢 Green: Currently checked in
-   - 🔴 Red: Currently checked out
-   - 🟡 Yellow: On break
-   - ⚫ Gray: Not scheduled today
 
 ### Generating Reports (Admins)
 
@@ -235,7 +212,7 @@ When you need assistance:
 
 1. **Check the FAQ** - Common questions and answers
 2. **Use in-app help** - Tap the help icon in any section
-3. **Contact support** - Email [support@myattend.com](mailto:support@myattend.com)
+3. **Contact support** - Email [info@tettra.solutions](mailto:info@tettra.solutions)
 4. **Ask your admin** - They may have organization-specific guidance
 
 ## Tips for Success
@@ -263,4 +240,4 @@ Now that you know the basics:
 
 ---
 
-*Need more help? Contact us at [support@myattend.com](mailto:support@myattend.com)*
+*Need more help? Contact us at [info@tettra.solutions](mailto:info@tettra.solutions)*
